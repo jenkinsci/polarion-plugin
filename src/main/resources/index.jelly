@@ -1,5 +1,0 @@
-<div>
-  This plugin integrates <a href="http://www.polarion.com/products/svn/svn_webclient.php">Polarion
-  WebClient for SVN</a> with Hudson.
-  Entries in change logs will be hyperlinked to the specified WebClient site.
-</div>
